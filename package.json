@@ -1,0 +1,25 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "workbench for this tutorial - https://medium.com/crowdbotics/how-to-create-a-chatbot-with-dialogflow-nodejs-and-webhooks-eecbbce97d8b",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/numoonchld/movie-chatbot-crowdbotics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/numoonchld/movie-chatbot-crowdbotics/issues"
+  },
+  "homepage": "https://github.com/numoonchld/movie-chatbot-crowdbotics#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  }
+}
